@@ -2,6 +2,8 @@
 
 Site institucional e cardápio online de uma cafeteria, com carrinho de compras e envio do pedido direto para o WhatsApp. Feito com **HTML, CSS e JavaScript puro** (sem frameworks).
 
+🔗 **Site no ar:** [juancarlos-qw.github.io/cafe-dois-irmaos](https://juancarlos-qw.github.io/cafe-dois-irmaos/)
+
 ## ✨ Funcionalidades
 
 - 🛒 **Carrinho de compras** com quantidade, subtotal e total em tempo real (salvo no navegador via `localStorage`)
@@ -26,7 +28,7 @@ Site institucional e cardápio online de uma cafeteria, com carrinho de compras 
 
 ## 🚀 Como usar
 
-Basta abrir o arquivo `index.html` no navegador — não há dependências nem build.
+Acesse a versão publicada em [juancarlos-qw.github.io/cafe-dois-irmaos](https://juancarlos-qw.github.io/cafe-dois-irmaos/) ou, localmente, basta abrir o arquivo `index.html` no navegador — não há dependências nem build.
 
 ## ⚙️ Configuração
 
